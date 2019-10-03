@@ -1,0 +1,5 @@
+PyTorch is deep learning libraries.It has helped accelerate the research that goes into deep learning models by making them computationally faster and less expensive (a data scientist’s dream!).I’ve found PyTorch to be as simple as working with NumPy.
+------------------------------------------------------------------------------------------------------------------------------------------
+pyforest – Importing all Python Data Science Libraries in One Line of Code
+from pyforest import *
+------------------------------------------------------------------------------------------------------------------------------------------
